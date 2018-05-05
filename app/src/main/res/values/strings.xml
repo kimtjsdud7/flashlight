@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ButtonApp</string>
+    <string name="click">CLICK</string>
+    <string name="background">background</string>
+    <string name="bunnyon">bunnyon</string>
+    <string name="bunnyoff">bunnyoff</string>
+    <string name="carrot">carrot</string>
+</resources>
